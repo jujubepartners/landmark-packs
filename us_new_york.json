@@ -3,7 +3,7 @@
     "name": "New York",
     "country": "USA",
     "flag": "🇺🇸",
-    "version": "1.0",
+    "version": "1.1",
     "landmarks": [
         {
             "name": "Statue of Liberty",
@@ -166,6 +166,17 @@
             "picture": "high_line",
             "rating": 4.7,
             "category": "Park",
+            "city": "New York City",
+            "state": "New York",
+            "country": "USA"
+        },
+        {
+            "name": "The Edge (Hudson Yards)",
+            "latitude": 40.7545,
+            "longitude": -74.0022,
+            "picture": "the_edge",
+            "rating": 4.7,
+            "category": "Attraction",
             "city": "New York City",
             "state": "New York",
             "country": "USA"
@@ -381,4 +392,3 @@
         }
     ]
 }
-
