@@ -1,0 +1,174 @@
+{
+    "packId": "us_new_jersey",
+    "name": "New Jersey",
+    "country": "USA",
+    "flag": "🇺🇸",
+    "version": "1.0",
+    "landmarks": [
+        {
+            "name": "Statue of Liberty (NJ Side)",
+            "latitude": 40.6892,
+            "longitude": -74.0445,
+            "picture": "statue_of_liberty_nj",
+            "rating": 4.8,
+            "category": "Monument",
+            "city": "Jersey City",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Liberty State Park",
+            "latitude": 40.7073,
+            "longitude": -74.0550,
+            "picture": "liberty_state_park",
+            "rating": 4.7,
+            "category": "Park",
+            "city": "Jersey City",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Atlantic City Boardwalk",
+            "latitude": 39.3544,
+            "longitude": -74.4254,
+            "picture": "atlantic_city_boardwalk",
+            "rating": 4.5,
+            "category": "Attraction",
+            "city": "Atlantic City",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Cape May Lighthouse",
+            "latitude": 38.9332,
+            "longitude": -74.9607,
+            "picture": "cape_may_lighthouse",
+            "rating": 4.6,
+            "category": "Historical",
+            "city": "Cape May",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Princeton University",
+            "latitude": 40.3431,
+            "longitude": -74.6514,
+            "picture": "princeton_university",
+            "rating": 4.8,
+            "category": "Architecture",
+            "city": "Princeton",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Thomas Edison National Historical Park",
+            "latitude": 40.7839,
+            "longitude": -74.2136,
+            "picture": "edison_lab",
+            "rating": 4.7,
+            "category": "Historical",
+            "city": "West Orange",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Grounds For Sculpture",
+            "latitude": 40.2347,
+            "longitude": -74.6697,
+            "picture": "grounds_for_sculpture",
+            "rating": 4.8,
+            "category": "Park",
+            "city": "Hamilton",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Hoboken Waterfront",
+            "latitude": 40.7357,
+            "longitude": -74.0284,
+            "picture": "hoboken_waterfront",
+            "rating": 4.6,
+            "category": "Park",
+            "city": "Hoboken",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Asbury Park Boardwalk",
+            "latitude": 40.2179,
+            "longitude": -74.0120,
+            "picture": "asbury_park",
+            "rating": 4.5,
+            "category": "Attraction",
+            "city": "Asbury Park",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Delaware Water Gap",
+            "latitude": 40.9798,
+            "longitude": -75.1393,
+            "picture": "delaware_water_gap",
+            "rating": 4.8,
+            "category": "Natural",
+            "city": "Delaware Water Gap",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Six Flags Great Adventure",
+            "latitude": 40.1379,
+            "longitude": -74.4374,
+            "picture": "six_flags",
+            "rating": 4.6,
+            "category": "Attraction",
+            "city": "Jackson",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Wildwood Boardwalk",
+            "latitude": 38.9917,
+            "longitude": -74.8149,
+            "picture": "wildwood_boardwalk",
+            "rating": 4.5,
+            "category": "Attraction",
+            "city": "Wildwood",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Ellis Island (NJ Side)",
+            "latitude": 40.6995,
+            "longitude": -74.0396,
+            "picture": "ellis_island_nj",
+            "rating": 4.7,
+            "category": "Historical",
+            "city": "Jersey City",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Palisades Interstate Park",
+            "latitude": 40.9662,
+            "longitude": -73.9082,
+            "picture": "palisades_park",
+            "rating": 4.6,
+            "category": "Park",
+            "city": "Alpine",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        {
+            "name": "Morristown National Historical Park",
+            "latitude": 40.7954,
+            "longitude": -74.4815,
+            "picture": "morristown_nhp",
+            "rating": 4.6,
+            "category": "Historical",
+            "city": "Morristown",
+            "state": "New Jersey",
+            "country": "USA"
+        }
+    ]
+}
