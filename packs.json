@@ -1,37 +1,37 @@
 [
-    {
-        "packId": "us_new_york",
-        "name": "New York",
-        "country": "USA",
-        "flag": "🇺🇸",
-        "description": "Iconic landmarks of New York State"
-    },
-    {
-        "packId": "cn_beijing",
-        "name": "Beijing",
-        "country": "China",
-        "flag": "🇨🇳",
-        "description": "Historical and modern landmarks of Beijing"
-    },
-    {
-        "packId": "pt_lisbon",
-        "name": "Lisbon",
-        "country": "Portugal",
-        "flag": "🇵🇹",
-        "description": "Beautiful landmarks of Lisbon"
-    },
-    {
-        "packId": "pt_porto",
-        "name": "Porto",
-        "country": "Portugal",
-        "flag": "🇵🇹",
-        "description": "Charming landmarks of Porto"
-    },
-    {
-        "packId": "cn_hong_kong",
-        "name": "Hong Kong",
-        "country": "China",
-        "flag": "🇭🇰",
-        "description": "Vibrant landmarks of Hong Kong"
-    }
+  {
+    "packId": "us_new_york",
+    "name": "New York",
+    "country": "USA",
+    "flag": "🇺🇸",
+    "description": "Iconic landmarks of New York State"
+  },
+  {
+    "packId": "cn_beijing",
+    "name": "Beijing",
+    "country": "China",
+    "flag": "🇨🇳",
+    "description": "Historical and modern landmarks of Beijing"
+  },
+  {
+    "packId": "pt_lisbon",
+    "name": "Lisbon",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "description": "Beautiful landmarks of Lisbon"
+  },
+  {
+    "packId": "pt_porto",
+    "name": "Porto",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "description": "Charming landmarks of Porto"
+  },
+  {
+    "packId": "cn_hong_kong",
+    "name": "Hong Kong",
+    "country": "China",
+    "flag": "🇭🇰",
+    "description": "Vibrant landmarks of Hong Kong"
+  }
 ]
