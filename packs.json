@@ -9,6 +9,13 @@
       "description": "Iconic landmarks of New York State"
     },
     {
+      "id": "us_new_jersey",
+      "city": "New Jersey",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "description": "Iconic landmarks of New Jersey State"
+    },
+    {
       "id": "cn_beijing",
       "city": "Beijing",
       "country": "China",
