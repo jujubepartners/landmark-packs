@@ -1,0 +1,90 @@
+{
+  "packId": "pt_porto",
+  "name": "Porto",
+  "country": "Portugal",
+  "flag": "🇵🇹",
+  "version": "1.0",
+  "description": "Charming landmarks of Porto",
+  "landmarks": [
+    {
+      "name": "Dom Luís I Bridge",
+      "latitude": 41.1399,
+      "longitude": -8.6096,
+      "picture": "",
+      "rating": 4.8,
+      "category": "Bridge",
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    {
+      "name": "Clérigos Tower",
+      "latitude": 41.1458,
+      "longitude": -8.6140,
+      "picture": "",
+      "rating": 4.6,
+      "category": "Tower",
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    {
+      "name": "Livraria Lello",
+      "latitude": 41.1469,
+      "longitude": -8.6147,
+      "picture": "",
+      "rating": 4.7,
+      "category": "Bookstore",
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    {
+      "name": "Ribeira District",
+      "latitude": 41.1408,
+      "longitude": -8.6128,
+      "picture": "",
+      "rating": 4.8,
+      "category": "Neighborhood",
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    {
+      "name": "Porto Cathedral",
+      "latitude": 41.1429,
+      "longitude": -8.6115,
+      "picture": "",
+      "rating": 4.5,
+      "category": "Religious",
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    {
+      "name": "Palácio da Bolsa",
+      "latitude": 41.1412,
+      "longitude": -8.6153,
+      "picture": "",
+      "rating": 4.6,
+      "category": "Palace",
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    {
+      "name": "Casa da Música",
+      "latitude": 41.1587,
+      "longitude": -8.6306,
+      "picture": "",
+      "rating": 4.5,
+      "category": "Concert Hall",
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    {
+      "name": "Serralves Museum",
+      "latitude": 41.1599,
+      "longitude": -8.6577,
+      "picture": "",
+      "rating": 4.6,
+      "category": "Museum",
+      "city": "Porto",
+      "country": "Portugal"
+    }
+  ]
+}

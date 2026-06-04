@@ -1,0 +1,90 @@
+{
+  "packId": "pt_lisbon",
+  "name": "Lisbon",
+  "country": "Portugal",
+  "flag": "🇵🇹",
+  "version": "1.0",
+  "description": "Historic landmarks and viewpoints of Lisbon",
+  "landmarks": [
+    {
+      "name": "Belém Tower",
+      "latitude": 38.6916,
+      "longitude": -9.2160,
+      "picture": "",
+      "rating": 4.7,
+      "category": "Monument",
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    {
+      "name": "Jerónimos Monastery",
+      "latitude": 38.6979,
+      "longitude": -9.2067,
+      "picture": "",
+      "rating": 4.8,
+      "category": "Religious",
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    {
+      "name": "São Jorge Castle",
+      "latitude": 38.7136,
+      "longitude": -9.1335,
+      "picture": "",
+      "rating": 4.6,
+      "category": "Castle",
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    {
+      "name": "Praça do Comércio",
+      "latitude": 38.7076,
+      "longitude": -9.1365,
+      "picture": "",
+      "rating": 4.7,
+      "category": "Square",
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    {
+      "name": "Santa Justa Lift",
+      "latitude": 38.7121,
+      "longitude": -9.1393,
+      "picture": "",
+      "rating": 4.5,
+      "category": "Viewpoint",
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    {
+      "name": "Lisbon Oceanarium",
+      "latitude": 38.7634,
+      "longitude": -9.0937,
+      "picture": "",
+      "rating": 4.6,
+      "category": "Museum",
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    {
+      "name": "Padrão dos Descobrimentos",
+      "latitude": 38.6938,
+      "longitude": -9.2059,
+      "picture": "",
+      "rating": 4.4,
+      "category": "Monument",
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    {
+      "name": "Alfama District",
+      "latitude": 38.7119,
+      "longitude": -9.1299,
+      "picture": "",
+      "rating": 4.8,
+      "category": "Neighborhood",
+      "city": "Lisbon",
+      "country": "Portugal"
+    }
+  ]
+}
