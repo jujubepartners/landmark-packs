@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.1.0",
   "packs": [
     {
       "id": "us_new_york",
@@ -21,13 +21,6 @@
       "country": "China",
       "flag": "🇨🇳",
       "description": "Historical and modern landmarks of Beijing"
-    },
-    {
-      "id": "cn_hong_kong",
-      "city": "Hong Kong",
-      "country": "China",
-      "flag": "🇭🇰",
-      "description": "Historical and modern landmarks of Hong Kong"
     },
     {
       "id": "pt_lisbon",
