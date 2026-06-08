@@ -1,0 +1,88 @@
+{
+  "packId": "us_new_jersey_jersey_city",
+  "name": "Jersey City",
+  "state": "New Jersey",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Landmarks of Jersey City – waterfront views, parks, and history",
+  "landmarks": [
+    {
+      "name": "Liberty State Park",
+      "latitude": 40.7073,
+      "longitude": -74.0550,
+      "picture": "liberty_state_park",
+      "rating": 4.7,
+      "category": "Park",
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Statue of Liberty (NJ Side)",
+      "latitude": 40.6892,
+      "longitude": -74.0445,
+      "picture": "statue_of_liberty_nj",
+      "rating": 4.8,
+      "category": "Monument",
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Ellis Island (NJ Side)",
+      "latitude": 40.6995,
+      "longitude": -74.0396,
+      "picture": "ellis_island_nj",
+      "rating": 4.7,
+      "category": "Historical",
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Liberty Science Center",
+      "latitude": 40.7086,
+      "longitude": -74.0544,
+      "picture": "liberty_science_center",
+      "rating": 4.6,
+      "category": "Museum",
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Colgate Clock",
+      "latitude": 40.7135,
+      "longitude": -74.0356,
+      "picture": "colgate_clock",
+      "rating": 4.3,
+      "category": "Historical",
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Jersey City Waterfront",
+      "latitude": 40.7200,
+      "longitude": -74.0400,
+      "picture": "jersey_city_waterfront",
+      "rating": 4.6,
+      "category": "Viewpoint",
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Newark Avenue Pedestrian Plaza",
+      "latitude": 40.7209,
+      "longitude": -74.0425,
+      "picture": "newark_avenue_plaza",
+      "rating": 4.4,
+      "category": "Cultural",
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "country": "USA"
+    }
+  ]
+}
