@@ -1,0 +1,13 @@
+{
+  "bundleId": "cn_hong_kong",
+  "name": "Hong Kong",
+  "flag": "🇭🇰",
+  "version": "1.0",
+  "description": "Complete set of landmark packs for Hong Kong",
+  "packs": [
+    "cn_hong_kong_hong_kong_island",
+    "cn_hong_kong_kowloon",
+    "cn_hong_kong_new_territories",
+    "cn_hong_kong_lantau_island"
+  ]
+}
