@@ -1,48 +1,45 @@
 {
-  "version": "1.1.0",
+  "version": "1.2",
   "packs": [
     {
-  "id": "us_new_york",
-  "city": "New York",
-  "country": "USA",
-  "flag": "🇺🇸",
-  "description": "Entire state of New York (bundle of cities)",
-  "type": "bundle"
-},
-    {
-      "id": "us_new_jersey",
-      "city": "New Jersey",
+      "id": "us_new_york",
+      "city": "New York",
       "country": "USA",
       "flag": "🇺🇸",
-      "description": "Iconic landmarks of New Jersey State"
+      "description": "Entire state of New York (bundle of cities)",
+      "type": "bundle"
     },
     {
       "id": "cn_beijing",
       "city": "Beijing",
       "country": "China",
       "flag": "🇨🇳",
-      "description": "Historical and modern landmarks of Beijing"
+      "description": "Comprehensive landmarks of Beijing",
+      "type": "city"
     },
     {
       "id": "pt_lisbon",
       "city": "Lisbon",
       "country": "Portugal",
       "flag": "🇵🇹",
-      "description": "Beautiful landmarks of Lisbon"
+      "description": "Historic landmarks and viewpoints of Lisbon",
+      "type": "city"
     },
     {
       "id": "pt_porto",
       "city": "Porto",
       "country": "Portugal",
       "flag": "🇵🇹",
-      "description": "Charming landmarks of Porto"
+      "description": "Charming landmarks of Porto",
+      "type": "city"
     },
     {
       "id": "cn_hong_kong",
       "city": "Hong Kong",
       "country": "China",
       "flag": "🇭🇰",
-      "description": "Vibrant landmarks of Hong Kong"
+      "description": "Vibrant landmarks of Hong Kong",
+      "type": "city"
     }
   ]
 }
