@@ -1,0 +1,14 @@
+{
+  "bundleId": "cn_beijing",
+  "name": "Beijing",
+  "flag": "🇨🇳",
+  "version": "1.0",
+  "description": "Complete set of landmark packs for Beijing",
+  "packs": [
+    "cn_beijing_dongcheng",
+    "cn_beijing_xicheng",
+    "cn_beijing_haidian",
+    "cn_beijing_chaoyang",
+    "cn_beijing_other"
+  ]
+}
