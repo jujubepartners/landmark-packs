@@ -1,0 +1,77 @@
+{
+  "packId": "cn_beijing_other",
+  "name": "Northern Suburbs & Beyond",
+  "state": "Beijing",
+  "country": "China",
+  "flag": "🇨🇳",
+  "version": "1.0",
+  "description": "Great Wall sections, imperial tombs, and scenic spots outside the core city",
+  "landmarks": [
+    {
+      "name": "Great Wall at Badaling",
+      "latitude": 40.3549,
+      "longitude": 116.0195,
+      "picture": "great_wall_badaling",
+      "rating": 4.9,
+      "category": "Historical",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Great Wall at Mutianyu",
+      "latitude": 40.4319,
+      "longitude": 116.5704,
+      "picture": "great_wall_mutianyu",
+      "rating": 4.8,
+      "category": "Historical",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Ming Tombs",
+      "latitude": 40.2539,
+      "longitude": 116.2163,
+      "picture": "ming_tombs",
+      "rating": 4.6,
+      "category": "Historical",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "China Aviation Museum",
+      "latitude": 40.1844,
+      "longitude": 116.3517,
+      "picture": "aviation_museum",
+      "rating": 4.7,
+      "category": "Museum",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Beijing Wildlife Park",
+      "latitude": 39.8000,
+      "longitude": 116.2300,
+      "picture": "beijing_wildlife_park",
+      "rating": 4.3,
+      "category": "Zoo",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Cuandixia Village",
+      "latitude": 39.9926,
+      "longitude": 115.6417,
+      "picture": "cuandixia",
+      "rating": 4.5,
+      "category": "Historical",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    }
+  ]
+}
