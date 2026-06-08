@@ -1,0 +1,99 @@
+{
+  "packId": "us_new_york_buffalo",
+  "name": "Buffalo",
+  "state": "New York",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Landmarks of Buffalo, NY – from architecture to wings",
+  "landmarks": [
+    {
+      "name": "Frank Lloyd Wright's Martin House",
+      "latitude": 42.9331,
+      "longitude": -78.8486,
+      "picture": "martin_house",
+      "rating": 4.7,
+      "category": "Architecture",
+      "city": "Buffalo",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Buffalo City Hall",
+      "latitude": 42.8864,
+      "longitude": -78.8784,
+      "picture": "buffalo_city_hall",
+      "rating": 4.5,
+      "category": "Architecture",
+      "city": "Buffalo",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Erie Canal",
+      "latitude": 43.0962,
+      "longitude": -78.8630,
+      "picture": "erie_canal",
+      "rating": 4.4,
+      "category": "Historical",
+      "city": "Buffalo",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Anchor Bar",
+      "latitude": 42.9073,
+      "longitude": -78.8553,
+      "picture": "anchor_bar",
+      "rating": 4.3,
+      "category": "Attraction",
+      "city": "Buffalo",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Albright-Knox Art Gallery",
+      "latitude": 42.9321,
+      "longitude": -78.8758,
+      "picture": "albright_knox",
+      "rating": 4.6,
+      "category": "Museum",
+      "city": "Buffalo",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Delaware Park",
+      "latitude": 42.9335,
+      "longitude": -78.8773,
+      "picture": "delaware_park",
+      "rating": 4.7,
+      "category": "Park",
+      "city": "Buffalo",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Naval Park and USS Little Rock",
+      "latitude": 42.8781,
+      "longitude": -78.8804,
+      "picture": "naval_park",
+      "rating": 4.4,
+      "category": "Museum",
+      "city": "Buffalo",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Canalside",
+      "latitude": 42.8785,
+      "longitude": -78.8796,
+      "picture": "canalside",
+      "rating": 4.5,
+      "category": "Attraction",
+      "city": "Buffalo",
+      "state": "New York",
+      "country": "USA"
+    }
+  ]
+}
