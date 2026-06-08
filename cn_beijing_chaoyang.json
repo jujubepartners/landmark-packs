@@ -1,0 +1,77 @@
+{
+  "packId": "cn_beijing_chaoyang",
+  "name": "Chaoyang",
+  "state": "Beijing",
+  "country": "China",
+  "flag": "🇨🇳",
+  "version": "1.0",
+  "description": "Modern architecture, art districts, and Olympic legacy in east Beijing",
+  "landmarks": [
+    {
+      "name": "798 Art District",
+      "latitude": 39.9847,
+      "longitude": 116.4951,
+      "picture": "798_art_district",
+      "rating": 4.5,
+      "category": "Cultural",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Olympic Park (Bird's Nest)",
+      "latitude": 39.9914,
+      "longitude": 116.3906,
+      "picture": "birds_nest",
+      "rating": 4.6,
+      "category": "Architecture",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Water Cube",
+      "latitude": 39.9919,
+      "longitude": 116.3838,
+      "picture": "water_cube",
+      "rating": 4.5,
+      "category": "Architecture",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "CCTV Headquarters",
+      "latitude": 39.9133,
+      "longitude": 116.4584,
+      "picture": "cctv_headquarters",
+      "rating": 4.3,
+      "category": "Architecture",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Sanlitun Village",
+      "latitude": 39.9329,
+      "longitude": 116.4551,
+      "picture": "sanlitun",
+      "rating": 4.3,
+      "category": "Shopping",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "China Science and Technology Museum",
+      "latitude": 39.9960,
+      "longitude": 116.3927,
+      "picture": "china_science_museum",
+      "rating": 4.5,
+      "category": "Museum",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    }
+  ]
+}
