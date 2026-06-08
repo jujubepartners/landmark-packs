@@ -8,39 +8,6 @@
   "description": "Landmarks of Brooklyn – from historic bridges to vibrant neighborhoods",
   "landmarks": [
     {
-            "name": "68th Precinct",
-            "latitude": 40.6390,
-            "longitude": -74.0226,
-            "picture": "precinct",
-            "rating": 2.0,
-            "category": "Building",
-             "city": "Brooklyn",
-          "state": "New York",
-            "country": "USA"
-        },
-        {
-            "name": "Home",
-            "latitude": 40.6331,
-            "longitude": -74.01690,
-            "picture": "home",
-            "rating": 5.0,
-            "category": "Building",
-             "city": "Brooklyn",
-          "state": "New York",
-            "country": "USA"
-        },
-        {
-            "name": "Verrazzano-Narrows Bridge",
-            "latitude": 40.6071,
-            "longitude": -74.0445,
-            "picture": "verrazzano",
-            "rating": 5.0,
-            "category": "Bridge",
-            "city": "Brooklyn",
-          "state": "New York",
-            "country": "USA"
-        },
-    {
       "name": "Brooklyn Bridge",
       "latitude": 40.7061,
       "longitude": -73.9969,
