@@ -1,0 +1,66 @@
+{
+  "packId": "us_new_jersey_edison",
+  "name": "Edison",
+  "state": "New Jersey",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Landmarks of Edison – home of Thomas Edison and diverse attractions",
+  "landmarks": [
+    {
+      "name": "Thomas Edison Museum & Memorial Tower",
+      "latitude": 40.5351,
+      "longitude": -74.3510,
+      "picture": "edison_museum",
+      "rating": 4.4,
+      "category": "Museum",
+      "city": "Edison",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Merrill Park",
+      "latitude": 40.5200,
+      "longitude": -74.3700,
+      "picture": "merrill_park",
+      "rating": 4.3,
+      "category": "Park",
+      "city": "Edison",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Oak Tree Pond & Historic Site",
+      "latitude": 40.5280,
+      "longitude": -74.3650,
+      "picture": "oak_tree_pond",
+      "rating": 4.0,
+      "category": "Historical",
+      "city": "Edison",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Edison Memorial Tower (Light Dispelling Darkness)",
+      "latitude": 40.5330,
+      "longitude": -74.3505,
+      "picture": "edison_tower",
+      "rating": 4.5,
+      "category": "Monument",
+      "city": "Edison",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Roosevelt Park",
+      "latitude": 40.5370,
+      "longitude": -74.3620,
+      "picture": "roosevelt_park",
+      "rating": 4.2,
+      "category": "Park",
+      "city": "Edison",
+      "state": "New Jersey",
+      "country": "USA"
+    }
+  ]
+}
