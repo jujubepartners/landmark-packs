@@ -2,12 +2,13 @@
   "version": "1.1.0",
   "packs": [
     {
-      "id": "us_new_york",
-      "city": "New York",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "description": "Iconic landmarks of New York State"
-    },
+  "id": "us_new_york",
+  "city": "New York",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "description": "Entire state of New York (bundle of cities)",
+  "type": "bundle"
+},
     {
       "id": "us_new_jersey",
       "city": "New Jersey",
