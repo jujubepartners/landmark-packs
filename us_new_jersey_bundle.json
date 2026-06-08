@@ -1,0 +1,14 @@
+{
+  "bundleId": "us_new_jersey",
+  "name": "New Jersey",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Complete set of landmark packs for New Jersey",
+  "packs": [
+    "us_new_jersey_jersey_city",
+    "us_new_jersey_newark",
+    "us_new_jersey_atlantic_city",
+    "us_new_jersey_princeton",
+    "us_new_jersey_edison"
+  ]
+}
