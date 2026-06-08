@@ -7,7 +7,7 @@
       "country": "USA",
       "flag": "🇺🇸",
       "description": "Entire state of New York (bundle of cities)",
-      "type": "bundle"
+      "type": "city"
     },
     {
       "id": "us_new_jersey",
