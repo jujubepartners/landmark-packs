@@ -1,0 +1,77 @@
+{
+  "packId": "cn_beijing_xicheng",
+  "name": "Xicheng (West City)",
+  "state": "Beijing",
+  "country": "China",
+  "flag": "🇨🇳",
+  "version": "1.0",
+  "description": "Imperial parks, traditional temples, and cultural hubs in western Beijing",
+  "landmarks": [
+    {
+      "name": "Beihai Park",
+      "latitude": 39.9244,
+      "longitude": 116.3890,
+      "picture": "beihai_park",
+      "rating": 4.6,
+      "category": "Park",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Shichahai",
+      "latitude": 39.9343,
+      "longitude": 116.3836,
+      "picture": "shichahai",
+      "rating": 4.5,
+      "category": "Natural",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Jingshan Park",
+      "latitude": 39.9226,
+      "longitude": 116.3926,
+      "picture": "jingshan_park",
+      "rating": 4.6,
+      "category": "Park",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "White Cloud Temple (Baiyun Guan)",
+      "latitude": 39.9047,
+      "longitude": 116.3488,
+      "picture": "white_cloud_temple",
+      "rating": 4.4,
+      "category": "Religious",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Capital Museum",
+      "latitude": 39.9051,
+      "longitude": 116.3370,
+      "picture": "capital_museum",
+      "rating": 4.6,
+      "category": "Museum",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Prince Gong's Mansion",
+      "latitude": 39.9370,
+      "longitude": 116.3837,
+      "picture": "prince_gongs_mansion",
+      "rating": 4.5,
+      "category": "Historical",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    }
+  ]
+}
