@@ -1,0 +1,231 @@
+{
+  "packId": "us_new_york_brooklyn",
+  "name": "Brooklyn",
+  "state": "New York",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Landmarks of Brooklyn – from historic bridges to vibrant neighborhoods",
+  "landmarks": [
+    {
+      "name": "Brooklyn Bridge",
+      "latitude": 40.7061,
+      "longitude": -73.9969,
+      "picture": "brooklyn_bridge",
+      "rating": 4.8,
+      "category": "Bridge",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Prospect Park",
+      "latitude": 40.6602,
+      "longitude": -73.9690,
+      "picture": "prospect_park",
+      "rating": 4.8,
+      "category": "Park",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Brooklyn Botanic Garden",
+      "latitude": 40.6680,
+      "longitude": -73.9640,
+      "picture": "brooklyn_botanic",
+      "rating": 4.8,
+      "category": "Park",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Brooklyn Museum",
+      "latitude": 40.6712,
+      "longitude": -73.9636,
+      "picture": "brooklyn_museum",
+      "rating": 4.7,
+      "category": "Museum",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Coney Island",
+      "latitude": 40.5749,
+      "longitude": -73.9854,
+      "picture": "coney_island",
+      "rating": 4.6,
+      "category": "Attraction",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "New York Aquarium",
+      "latitude": 40.5753,
+      "longitude": -73.9759,
+      "picture": "ny_aquarium",
+      "rating": 4.4,
+      "category": "Aquarium",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Barclays Center",
+      "latitude": 40.6826,
+      "longitude": -73.9754,
+      "picture": "barclays_center",
+      "rating": 4.5,
+      "category": "Architecture",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Brooklyn Heights Promenade",
+      "latitude": 40.6964,
+      "longitude": -73.9963,
+      "picture": "brooklyn_heights_promenade",
+      "rating": 4.7,
+      "category": "Viewpoint",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "DUMBO",
+      "latitude": 40.7033,
+      "longitude": -73.9894,
+      "picture": "dumbo",
+      "rating": 4.6,
+      "category": "Neighborhood",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Williamsburg Bridge",
+      "latitude": 40.7130,
+      "longitude": -73.9722,
+      "picture": "williamsburg_bridge",
+      "rating": 4.5,
+      "category": "Bridge",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Brooklyn Navy Yard",
+      "latitude": 40.7003,
+      "longitude": -73.9721,
+      "picture": "brooklyn_navy_yard",
+      "rating": 4.4,
+      "category": "Historical",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Green-Wood Cemetery",
+      "latitude": 40.6526,
+      "longitude": -73.9907,
+      "picture": "green_wood_cemetery",
+      "rating": 4.5,
+      "category": "Historical",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Brooklyn Bridge Park",
+      "latitude": 40.7003,
+      "longitude": -73.9966,
+      "picture": "brooklyn_bridge_park",
+      "rating": 4.7,
+      "category": "Park",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Brooklyn Academy of Music (BAM)",
+      "latitude": 40.6864,
+      "longitude": -73.9779,
+      "picture": "bam",
+      "rating": 4.6,
+      "category": "Cultural",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Brooklyn Public Library (Central Library)",
+      "latitude": 40.6720,
+      "longitude": -73.9681,
+      "picture": "brooklyn_library",
+      "rating": 4.5,
+      "category": "Architecture",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Grand Army Plaza",
+      "latitude": 40.6740,
+      "longitude": -73.9704,
+      "picture": "grand_army_plaza",
+      "rating": 4.6,
+      "category": "Monument",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Brooklyn Historical Society",
+      "latitude": 40.6945,
+      "longitude": -73.9927,
+      "picture": "brooklyn_historical_society",
+      "rating": 4.4,
+      "category": "Museum",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Smorgasburg (Williamsburg)",
+      "latitude": 40.7191,
+      "longitude": -73.9613,
+      "picture": "smorgasburg",
+      "rating": 4.5,
+      "category": "Attraction",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Wyckoff House Museum",
+      "latitude": 40.6447,
+      "longitude": -73.9203,
+      "picture": "wyckoff_house",
+      "rating": 4.2,
+      "category": "Historical",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Shirley Chisholm State Park",
+      "latitude": 40.6364,
+      "longitude": -73.8722,
+      "picture": "shirley_chisholm_park",
+      "rating": 4.5,
+      "category": "Park",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    }
+  ]
+}
