@@ -1,0 +1,198 @@
+{
+  "packId": "us_new_york",
+  "name": "New York City",
+  "state": "New York",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Landmarks of New York City – five boroughs of iconic sights",
+  "landmarks": [
+    {
+      "name": "Statue of Liberty",
+      "latitude": 40.6892,
+      "longitude": -74.0445,
+      "picture": "statue_of_liberty",
+      "rating": 4.8,
+      "category": "Monument",
+      "city": "New York City",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Empire State Building",
+      "latitude": 40.7488,
+      "longitude": -73.9857,
+      "picture": "empire_state",
+      "rating": 4.7,
+      "category": "Architecture",
+      "city": "New York City",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Times Square",
+      "latitude": 40.7580,
+      "longitude": -73.9855,
+      "picture": "times_square",
+      "rating": 4.5,
+      "category": "Attraction",
+      "city": "New York City",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Central Park",
+      "latitude": 40.7851,
+      "longitude": -73.9683,
+      "picture": "central_park",
+      "rating": 4.9,
+      "category": "Park",
+      "city": "New York City",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Brooklyn Bridge",
+      "latitude": 40.7061,
+      "longitude": -73.9969,
+      "picture": "brooklyn_bridge",
+      "rating": 4.8,
+      "category": "Bridge",
+      "city": "New York City",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "One World Trade Center",
+      "latitude": 40.7127,
+      "longitude": -74.0134,
+      "picture": "one_world_trade",
+      "rating": 4.7,
+      "category": "Monument",
+      "city": "New York City",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Rockefeller Center",
+      "latitude": 40.7587,
+      "longitude": -73.9787,
+      "picture": "rockefeller",
+      "rating": 4.6,
+      "category": "Architecture",
+      "city": "New York City",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Grand Central Terminal",
+      "latitude": 40.7527,
+      "longitude": -73.9772,
+      "picture": "grand_central",
+      "rating": 4.8,
+      "category": "Architecture",
+      "city": "New York City",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Metropolitan Museum of Art",
+      "latitude": 40.7794,
+      "longitude": -73.9632,
+      "picture": "met_museum",
+      "rating": 4.9,
+      "category": "Museum",
+      "city": "New York City",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "American Museum of Natural History",
+      "latitude": 40.7813,
+      "longitude": -73.9739,
+      "picture": "natural_history",
+      "rating": 4.8,
+      "category": "Museum",
+      "city": "New York City",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "High Line Park",
+      "latitude": 40.7480,
+      "longitude": -74.0048,
+      "picture": "high_line",
+      "rating": 4.7,
+      "category": "Park",
+      "city": "New York City",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Prospect Park",
+      "latitude": 40.6602,
+      "longitude": -73.9690,
+      "picture": "prospect_park",
+      "rating": 4.8,
+      "category": "Park",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Coney Island",
+      "latitude": 40.5749,
+      "longitude": -73.9854,
+      "picture": "coney_island",
+      "rating": 4.6,
+      "category": "Attraction",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Brooklyn Botanic Garden",
+      "latitude": 40.6680,
+      "longitude": -73.9640,
+      "picture": "brooklyn_botanic",
+      "rating": 4.8,
+      "category": "Park",
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Bronx Zoo",
+      "latitude": 40.8506,
+      "longitude": -73.8788,
+      "picture": "bronx_zoo",
+      "rating": 4.7,
+      "category": "Zoo",
+      "city": "Bronx",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "New York Botanical Garden",
+      "latitude": 40.8628,
+      "longitude": -73.8775,
+      "picture": "ny_botanical",
+      "rating": 4.8,
+      "category": "Park",
+      "city": "Bronx",
+      "state": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Yankee Stadium",
+      "latitude": 40.8296,
+      "longitude": -73.9262,
+      "picture": "yankee_stadium",
+      "rating": 4.6,
+      "category": "Attraction",
+      "city": "Bronx",
+      "state": "New York",
+      "country": "USA"
+    }
+  ]
+}
