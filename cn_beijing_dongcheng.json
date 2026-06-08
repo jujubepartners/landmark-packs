@@ -1,0 +1,88 @@
+{
+  "packId": "cn_beijing_dongcheng",
+  "name": "Dongcheng (East City)",
+  "state": "Beijing",
+  "country": "China",
+  "flag": "🇨🇳",
+  "version": "1.0",
+  "description": "Historic heart of Beijing – imperial palaces, museums, and traditional hutongs",
+  "landmarks": [
+    {
+      "name": "Forbidden City",
+      "latitude": 39.9163,
+      "longitude": 116.3972,
+      "picture": "forbidden_city",
+      "rating": 4.8,
+      "category": "Historical",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Tiananmen Square",
+      "latitude": 39.9054,
+      "longitude": 116.3976,
+      "picture": "tiananmen_square",
+      "rating": 4.7,
+      "category": "Historical",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "National Museum of China",
+      "latitude": 39.9054,
+      "longitude": 116.3946,
+      "picture": "national_museum",
+      "rating": 4.7,
+      "category": "Museum",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Drum Tower and Bell Tower",
+      "latitude": 39.9393,
+      "longitude": 116.3943,
+      "picture": "drum_bell_tower",
+      "rating": 4.4,
+      "category": "Historical",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Nanluoguxiang Hutong",
+      "latitude": 39.9368,
+      "longitude": 116.3992,
+      "picture": "nanluoguxiang",
+      "rating": 4.5,
+      "category": "Cultural",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Lama Temple (Yonghe Temple)",
+      "latitude": 39.9473,
+      "longitude": 116.4160,
+      "picture": "lama_temple",
+      "rating": 4.6,
+      "category": "Religious",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Wangfujing Street",
+      "latitude": 39.9111,
+      "longitude": 116.4116,
+      "picture": "wangfujing",
+      "rating": 4.4,
+      "category": "Shopping",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    }
+  ]
+}
