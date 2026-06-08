@@ -1,0 +1,77 @@
+{
+  "packId": "cn_hong_kong_hong_kong_island",
+  "name": "Hong Kong Island",
+  "state": "Hong Kong",
+  "country": "China",
+  "flag": "🇭🇰",
+  "version": "1.0",
+  "description": "Landmarks of Hong Kong Island – from Victoria Peak to the bustling Central district",
+  "landmarks": [
+    {
+      "name": "Victoria Peak",
+      "latitude": 22.2758,
+      "longitude": 114.1455,
+      "picture": "victoria_peak",
+      "rating": 4.8,
+      "category": "Viewpoint",
+      "city": "Hong Kong Island",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Bank of China Tower",
+      "latitude": 22.2791,
+      "longitude": 114.1619,
+      "picture": "boc_tower",
+      "rating": 4.4,
+      "category": "Architecture",
+      "city": "Hong Kong Island",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Hong Kong Park",
+      "latitude": 22.2773,
+      "longitude": 114.1632,
+      "picture": "hk_park",
+      "rating": 4.5,
+      "category": "Park",
+      "city": "Hong Kong Island",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Man Mo Temple",
+      "latitude": 22.2840,
+      "longitude": 114.1500,
+      "picture": "man_mo_temple",
+      "rating": 4.4,
+      "category": "Religious",
+      "city": "Hong Kong Island",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Central Market",
+      "latitude": 22.2840,
+      "longitude": 114.1549,
+      "picture": "central_market",
+      "rating": 4.3,
+      "category": "Shopping",
+      "city": "Hong Kong Island",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Dragon's Back Trail",
+      "latitude": 22.2430,
+      "longitude": 114.2360,
+      "picture": "dragons_back",
+      "rating": 4.8,
+      "category": "Natural",
+      "city": "Hong Kong Island",
+      "state": "Hong Kong",
+      "country": "China"
+    }
+  ]
+}
