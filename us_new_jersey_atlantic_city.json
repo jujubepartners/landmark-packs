@@ -1,0 +1,77 @@
+{
+  "packId": "us_new_jersey_atlantic_city",
+  "name": "Atlantic City",
+  "state": "New Jersey",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Landmarks of Atlantic City – boardwalk, casinos, and historic spots",
+  "landmarks": [
+    {
+      "name": "Atlantic City Boardwalk",
+      "latitude": 39.3544,
+      "longitude": -74.4254,
+      "picture": "atlantic_city_boardwalk",
+      "rating": 4.5,
+      "category": "Attraction",
+      "city": "Atlantic City",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Absecon Lighthouse",
+      "latitude": 39.3662,
+      "longitude": -74.4140,
+      "picture": "absecon_lighthouse",
+      "rating": 4.5,
+      "category": "Lighthouse",
+      "city": "Atlantic City",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Steel Pier",
+      "latitude": 39.3548,
+      "longitude": -74.4180,
+      "picture": "steel_pier",
+      "rating": 4.4,
+      "category": "Attraction",
+      "city": "Atlantic City",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Tropicana Casino",
+      "latitude": 39.3590,
+      "longitude": -74.4290,
+      "picture": "tropicana",
+      "rating": 4.3,
+      "category": "Architecture",
+      "city": "Atlantic City",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Atlantic City Aquarium",
+      "latitude": 39.3550,
+      "longitude": -74.4270,
+      "picture": "ac_aquarium",
+      "rating": 4.2,
+      "category": "Aquarium",
+      "city": "Atlantic City",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Gardner's Basin",
+      "latitude": 39.3560,
+      "longitude": -74.4300,
+      "picture": "gardeners_basin",
+      "rating": 4.3,
+      "category": "Natural",
+      "city": "Atlantic City",
+      "state": "New Jersey",
+      "country": "USA"
+    }
+  ]
+}
