@@ -1,0 +1,77 @@
+{
+  "packId": "cn_beijing_haidian",
+  "name": "Haidian",
+  "state": "Beijing",
+  "country": "China",
+  "flag": "🇨🇳",
+  "version": "1.0",
+  "description": "Gardens, universities, and high‑tech parks in northwest Beijing",
+  "landmarks": [
+    {
+      "name": "Summer Palace",
+      "latitude": 39.9993,
+      "longitude": 116.2755,
+      "picture": "summer_palace",
+      "rating": 4.7,
+      "category": "Park",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Old Summer Palace (Yuanmingyuan)",
+      "latitude": 40.0074,
+      "longitude": 116.2946,
+      "picture": "yuanmingyuan",
+      "rating": 4.5,
+      "category": "Historical",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Fragrant Hills Park",
+      "latitude": 39.9900,
+      "longitude": 116.1822,
+      "picture": "fragrant_hills",
+      "rating": 4.6,
+      "category": "Park",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Beijing Botanical Garden",
+      "latitude": 39.9928,
+      "longitude": 116.2094,
+      "picture": "beijing_botanical_garden",
+      "rating": 4.6,
+      "category": "Park",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Tsinghua University",
+      "latitude": 40.0000,
+      "longitude": 116.3264,
+      "picture": "tsinghua_university",
+      "rating": 4.7,
+      "category": "Architecture",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    },
+    {
+      "name": "Peking University",
+      "latitude": 39.9929,
+      "longitude": 116.3103,
+      "picture": "peking_university",
+      "rating": 4.7,
+      "category": "Architecture",
+      "city": "Beijing",
+      "state": "Beijing",
+      "country": "China"
+    }
+  ]
+}
