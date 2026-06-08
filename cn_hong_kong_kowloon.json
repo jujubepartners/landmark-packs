@@ -1,0 +1,77 @@
+{
+  "packId": "cn_hong_kong_kowloon",
+  "name": "Kowloon",
+  "state": "Hong Kong",
+  "country": "China",
+  "flag": "🇭🇰",
+  "version": "1.0",
+  "description": "Landmarks of Kowloon – bustling markets, promenades, and cultural treasures",
+  "landmarks": [
+    {
+      "name": "Avenue of Stars",
+      "latitude": 22.2931,
+      "longitude": 114.1700,
+      "picture": "avenue_of_stars",
+      "rating": 4.5,
+      "category": "Attraction",
+      "city": "Kowloon",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Temple Street Night Market",
+      "latitude": 22.3094,
+      "longitude": 114.1701,
+      "picture": "temple_street_market",
+      "rating": 4.3,
+      "category": "Shopping",
+      "city": "Kowloon",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Wong Tai Sin Temple",
+      "latitude": 22.3421,
+      "longitude": 114.1936,
+      "picture": "wong_tai_sin",
+      "rating": 4.5,
+      "category": "Religious",
+      "city": "Kowloon",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Kowloon Walled City Park",
+      "latitude": 22.3325,
+      "longitude": 114.1903,
+      "picture": "kowloon_walled_city_park",
+      "rating": 4.6,
+      "category": "Historical",
+      "city": "Kowloon",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Mong Kok District",
+      "latitude": 22.3190,
+      "longitude": 114.1690,
+      "picture": "mong_kok",
+      "rating": 4.3,
+      "category": "Shopping",
+      "city": "Kowloon",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Nan Lian Garden",
+      "latitude": 22.3356,
+      "longitude": 114.2036,
+      "picture": "nan_lian_garden",
+      "rating": 4.7,
+      "category": "Park",
+      "city": "Kowloon",
+      "state": "Hong Kong",
+      "country": "China"
+    }
+  ]
+}
