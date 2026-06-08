@@ -1,0 +1,77 @@
+{
+  "packId": "us_new_jersey_princeton",
+  "name": "Princeton",
+  "state": "New Jersey",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Landmarks of Princeton – Ivy League campus and historic sites",
+  "landmarks": [
+    {
+      "name": "Princeton University",
+      "latitude": 40.3431,
+      "longitude": -74.6514,
+      "picture": "princeton_university",
+      "rating": 4.8,
+      "category": "Architecture",
+      "city": "Princeton",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Princeton Battlefield State Park",
+      "latitude": 40.3287,
+      "longitude": -74.6743,
+      "picture": "princeton_battlefield",
+      "rating": 4.5,
+      "category": "Historical",
+      "city": "Princeton",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Drumthwacket (Governor's Mansion)",
+      "latitude": 40.3587,
+      "longitude": -74.6823,
+      "picture": "drumthwacket",
+      "rating": 4.4,
+      "category": "Historical",
+      "city": "Princeton",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Palmer Square",
+      "latitude": 40.3495,
+      "longitude": -74.6595,
+      "picture": "palmer_square",
+      "rating": 4.3,
+      "category": "Shopping",
+      "city": "Princeton",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Institute for Advanced Study",
+      "latitude": 40.3310,
+      "longitude": -74.6673,
+      "picture": "ias",
+      "rating": 4.6,
+      "category": "Architecture",
+      "city": "Princeton",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Lake Carnegie",
+      "latitude": 40.3400,
+      "longitude": -74.6500,
+      "picture": "lake_carnegie",
+      "rating": 4.5,
+      "category": "Natural",
+      "city": "Princeton",
+      "state": "New Jersey",
+      "country": "USA"
+    }
+  ]
+}
