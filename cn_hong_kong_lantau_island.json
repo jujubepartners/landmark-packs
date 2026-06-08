@@ -1,0 +1,77 @@
+{
+  "packId": "cn_hong_kong_lantau_island",
+  "name": "Lantau Island",
+  "state": "Hong Kong",
+  "country": "China",
+  "flag": "🇭🇰",
+  "version": "1.0",
+  "description": "Landmarks of Lantau Island – Big Buddha, Disneyland, and natural beauty",
+  "landmarks": [
+    {
+      "name": "Tian Tan Buddha (Big Buddha)",
+      "latitude": 22.2538,
+      "longitude": 113.9047,
+      "picture": "big_buddha",
+      "rating": 4.7,
+      "category": "Monument",
+      "city": "Lantau Island",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Po Lin Monastery",
+      "latitude": 22.2540,
+      "longitude": 113.9041,
+      "picture": "po_lin_monastery",
+      "rating": 4.6,
+      "category": "Religious",
+      "city": "Lantau Island",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Ngong Ping 360",
+      "latitude": 22.2882,
+      "longitude": 113.9430,
+      "picture": "ngong_ping_360",
+      "rating": 4.6,
+      "category": "Attraction",
+      "city": "Lantau Island",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Hong Kong Disneyland",
+      "latitude": 22.3130,
+      "longitude": 114.0413,
+      "picture": "disneyland_hk",
+      "rating": 4.6,
+      "category": "Amusement Park",
+      "city": "Lantau Island",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Tai O Fishing Village",
+      "latitude": 22.2561,
+      "longitude": 113.8550,
+      "picture": "tai_o",
+      "rating": 4.4,
+      "category": "Cultural",
+      "city": "Lantau Island",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Lantau Trail",
+      "latitude": 22.2700,
+      "longitude": 113.9300,
+      "picture": "lantau_trail",
+      "rating": 4.6,
+      "category": "Natural",
+      "city": "Lantau Island",
+      "state": "Hong Kong",
+      "country": "China"
+    }
+  ]
+}
