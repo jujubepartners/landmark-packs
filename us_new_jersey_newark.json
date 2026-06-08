@@ -1,0 +1,88 @@
+{
+  "packId": "us_new_jersey_newark",
+  "name": "Newark",
+  "state": "New Jersey",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Landmarks of Newark – museums, parks, and urban attractions",
+  "landmarks": [
+    {
+      "name": "Newark Museum of Art",
+      "latitude": 40.7433,
+      "longitude": -74.1716,
+      "picture": "newark_museum",
+      "rating": 4.6,
+      "category": "Museum",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Branch Brook Park",
+      "latitude": 40.7600,
+      "longitude": -74.1800,
+      "picture": "branch_brook_park",
+      "rating": 4.7,
+      "category": "Park",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "New Jersey Performing Arts Center (NJPAC)",
+      "latitude": 40.7390,
+      "longitude": -74.1695,
+      "picture": "njpac",
+      "rating": 4.7,
+      "category": "Cultural",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Cathedral Basilica of the Sacred Heart",
+      "latitude": 40.7550,
+      "longitude": -74.1785,
+      "picture": "sacred_heart_cathedral",
+      "rating": 4.5,
+      "category": "Religious",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Riverfront Park",
+      "latitude": 40.7320,
+      "longitude": -74.1550,
+      "picture": "newark_riverfront_park",
+      "rating": 4.4,
+      "category": "Park",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Newark Symphony Hall",
+      "latitude": 40.7405,
+      "longitude": -74.1702,
+      "picture": "newark_symphony_hall",
+      "rating": 4.6,
+      "category": "Cultural",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "USA"
+    },
+    {
+      "name": "Prudential Center",
+      "latitude": 40.7330,
+      "longitude": -74.1710,
+      "picture": "prudential_center",
+      "rating": 4.5,
+      "category": "Architecture",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "USA"
+    }
+  ]
+}
