@@ -1,0 +1,12 @@
+{
+  "bundleId": "us_new_york",
+  "name": "New York",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Complete set of landmark packs for New York State",
+  "packs": [
+    "us_new_york_new_york_city",
+    "us_new_york_brooklyn",
+    "us_new_york_buffalo"
+  ]
+}
