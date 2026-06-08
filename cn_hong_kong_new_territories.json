@@ -1,0 +1,77 @@
+{
+  "packId": "cn_hong_kong_new_territories",
+  "name": "New Territories",
+  "state": "Hong Kong",
+  "country": "China",
+  "flag": "🇭🇰",
+  "version": "1.0",
+  "description": "Landmarks of the New Territories – wetlands, heritage trails, and natural parks",
+  "landmarks": [
+    {
+      "name": "Hong Kong Wetland Park",
+      "latitude": 22.4670,
+      "longitude": 114.0040,
+      "picture": "wetland_park",
+      "rating": 4.4,
+      "category": "Park",
+      "city": "New Territories",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Ten Thousand Buddhas Monastery",
+      "latitude": 22.3870,
+      "longitude": 114.1846,
+      "picture": "ten_thousand_buddhas",
+      "rating": 4.5,
+      "category": "Religious",
+      "city": "New Territories",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Sha Tin Park",
+      "latitude": 22.3823,
+      "longitude": 114.1897,
+      "picture": "sha_tin_park",
+      "rating": 4.4,
+      "category": "Park",
+      "city": "New Territories",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Tai Po Waterfront Park",
+      "latitude": 22.4493,
+      "longitude": 114.1769,
+      "picture": "tai_po_park",
+      "rating": 4.5,
+      "category": "Park",
+      "city": "New Territories",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Ping Shan Heritage Trail",
+      "latitude": 22.4450,
+      "longitude": 114.0060,
+      "picture": "ping_shan_heritage",
+      "rating": 4.4,
+      "category": "Historical",
+      "city": "New Territories",
+      "state": "Hong Kong",
+      "country": "China"
+    },
+    {
+      "name": "Sai Kung Peninsula",
+      "latitude": 22.3814,
+      "longitude": 114.2705,
+      "picture": "sai_kung",
+      "rating": 4.7,
+      "category": "Natural",
+      "city": "New Territories",
+      "state": "Hong Kong",
+      "country": "China"
+    }
+  ]
+}
