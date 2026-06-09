@@ -1,0 +1,77 @@
+{
+  "packId": "us_virginia_shenandoah",
+  "name": "Shenandoah Valley",
+  "state": "Virginia",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Scenic mountains, caverns, and natural wonders of western Virginia",
+  "landmarks": [
+    {
+      "name": "Shenandoah National Park",
+      "latitude": 38.4847,
+      "longitude": -78.4753,
+      "picture": "shenandoah_np",
+      "rating": 4.8,
+      "category": "Natural",
+      "city": "Luray",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Skyline Drive",
+      "latitude": 38.4800,
+      "longitude": -78.4667,
+      "picture": "skyline_drive",
+      "rating": 4.9,
+      "category": "Viewpoint",
+      "city": "Luray",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Luray Caverns",
+      "latitude": 38.6640,
+      "longitude": -78.4603,
+      "picture": "luray_caverns",
+      "rating": 4.7,
+      "category": "Natural",
+      "city": "Luray",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Natural Bridge",
+      "latitude": 37.6290,
+      "longitude": -79.5451,
+      "picture": "natural_bridge",
+      "rating": 4.6,
+      "category": "Natural",
+      "city": "Natural Bridge",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Monticello (Thomas Jefferson's Home)",
+      "latitude": 38.0090,
+      "longitude": -78.4530,
+      "picture": "monticello",
+      "rating": 4.8,
+      "category": "Historical",
+      "city": "Charlottesville",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "University of Virginia",
+      "latitude": 38.0356,
+      "longitude": -78.5034,
+      "picture": "uva",
+      "rating": 4.7,
+      "category": "Architecture",
+      "city": "Charlottesville",
+      "state": "Virginia",
+      "country": "USA"
+    }
+  ]
+}
