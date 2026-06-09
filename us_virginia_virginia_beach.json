@@ -1,0 +1,77 @@
+{
+  "packId": "us_virginia_virginia_beach",
+  "name": "Virginia Beach",
+  "state": "Virginia",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Coastal landmarks of Virginia Beach – boardwalk, parks, and maritime heritage",
+  "landmarks": [
+    {
+      "name": "Virginia Beach Boardwalk",
+      "latitude": 36.8529,
+      "longitude": -75.9779,
+      "picture": "vb_boardwalk",
+      "rating": 4.6,
+      "category": "Attraction",
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "First Landing State Park",
+      "latitude": 36.9057,
+      "longitude": -76.0203,
+      "picture": "first_landing",
+      "rating": 4.7,
+      "category": "Park",
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Virginia Aquarium & Marine Science Center",
+      "latitude": 36.8223,
+      "longitude": -75.9844,
+      "picture": "va_aquarium",
+      "rating": 4.5,
+      "category": "Aquarium",
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Cape Henry Lighthouse",
+      "latitude": 36.9260,
+      "longitude": -76.0077,
+      "picture": "cape_henry_lighthouse",
+      "rating": 4.5,
+      "category": "Lighthouse",
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Back Bay National Wildlife Refuge",
+      "latitude": 36.6530,
+      "longitude": -75.9307,
+      "picture": "back_bay",
+      "rating": 4.6,
+      "category": "Natural",
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Military Aviation Museum",
+      "latitude": 36.7035,
+      "longitude": -76.0252,
+      "picture": "military_aviation_museum",
+      "rating": 4.7,
+      "category": "Museum",
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "country": "USA"
+    }
+  ]
+}
