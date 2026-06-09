@@ -1,0 +1,77 @@
+{
+  "packId": "us_virginia_richmond",
+  "name": "Richmond",
+  "state": "Virginia",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Historic capital of Virginia – monuments, museums, and riverfront charm",
+  "landmarks": [
+    {
+      "name": "Virginia State Capitol",
+      "latitude": 37.5388,
+      "longitude": -77.4336,
+      "picture": "va_state_capitol",
+      "rating": 4.6,
+      "category": "Architecture",
+      "city": "Richmond",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Maymont",
+      "latitude": 37.5343,
+      "longitude": -77.4793,
+      "picture": "maymont",
+      "rating": 4.8,
+      "category": "Park",
+      "city": "Richmond",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Hollywood Cemetery",
+      "latitude": 37.5360,
+      "longitude": -77.4563,
+      "picture": "hollywood_cemetery",
+      "rating": 4.7,
+      "category": "Historical",
+      "city": "Richmond",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Virginia Museum of Fine Arts",
+      "latitude": 37.5561,
+      "longitude": -77.4752,
+      "picture": "vmfa",
+      "rating": 4.8,
+      "category": "Museum",
+      "city": "Richmond",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Lewis Ginter Botanical Garden",
+      "latitude": 37.6185,
+      "longitude": -77.4702,
+      "picture": "lewis_ginter",
+      "rating": 4.8,
+      "category": "Park",
+      "city": "Richmond",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "American Civil War Museum",
+      "latitude": 37.5341,
+      "longitude": -77.4296,
+      "picture": "civil_war_museum",
+      "rating": 4.6,
+      "category": "Museum",
+      "city": "Richmond",
+      "state": "Virginia",
+      "country": "USA"
+    }
+  ]
+}
