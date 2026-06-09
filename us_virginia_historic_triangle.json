@@ -1,0 +1,77 @@
+{
+  "packId": "us_virginia_historic_triangle",
+  "name": "Historic Triangle",
+  "state": "Virginia",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Colonial Williamsburg, Jamestown, and Yorktown – the birthplace of America",
+  "landmarks": [
+    {
+      "name": "Colonial Williamsburg",
+      "latitude": 37.2715,
+      "longitude": -76.7000,
+      "picture": "colonial_williamsburg",
+      "rating": 4.8,
+      "category": "Historical",
+      "city": "Williamsburg",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Historic Jamestowne",
+      "latitude": 37.2100,
+      "longitude": -76.7700,
+      "picture": "jamestown",
+      "rating": 4.6,
+      "category": "Historical",
+      "city": "Jamestown",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Yorktown Battlefield",
+      "latitude": 37.2345,
+      "longitude": -76.5091,
+      "picture": "yorktown",
+      "rating": 4.7,
+      "category": "Historical",
+      "city": "Yorktown",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Busch Gardens Williamsburg",
+      "latitude": 37.2351,
+      "longitude": -76.6458,
+      "picture": "busch_gardens",
+      "rating": 4.6,
+      "category": "Amusement Park",
+      "city": "Williamsburg",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Watermen's Museum",
+      "latitude": 37.2340,
+      "longitude": -76.5070,
+      "picture": "watermens_museum",
+      "rating": 4.4,
+      "category": "Museum",
+      "city": "Yorktown",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Williamsburg Winery",
+      "latitude": 37.2315,
+      "longitude": -76.6773,
+      "picture": "williamsburg_winery",
+      "rating": 4.5,
+      "category": "Cultural",
+      "city": "Williamsburg",
+      "state": "Virginia",
+      "country": "USA"
+    }
+  ]
+}
