@@ -1,4 +1,12 @@
-[
+{
+  "packId": "us_virginia_loudoun",
+  "name": "loudoun",
+  "state": "Virginia",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.1",
+  "description": "Landmarks near loudoun, and more",
+  "landmarks": [
   {
     "name": "Aldie Mill Historic Park",
     "latitude": 38.9876,
