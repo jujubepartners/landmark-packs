@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Aldie Mill Historic Park",
+    "latitude": 38.9876,
+    "longitude": -77.6355,
+    "picture": "aldie_mill",
+    "rating": 4.5,
+    "category": "Historical",
+    "city": "Aldie",
+    "state": "Virginia",
+    "country": "USA"
+  },
+  {
+    "name": "Gilbert's Corner",
+    "latitude": 38.9759,
+    "longitude": -77.6377,
+    "picture": "gilberts_corner",
+    "rating": 4.2,
+    "category": "Cultural",
+    "city": "Aldie",
+    "state": "Virginia",
+    "country": "USA"
+  },
+  {
+    "name": "Middleburg Historic District",
+    "latitude": 38.9682,
+    "longitude": -77.7355,
+    "picture": "middleburg_historic",
+    "rating": 4.6,
+    "category": "Historical",
+    "city": "Middleburg",
+    "state": "Virginia",
+    "country": "USA"
+  },
+  {
+    "name": "Red Fox Inn & Tavern",
+    "latitude": 38.9680,
+    "longitude": -77.7360,
+    "picture": "red_fox_inn",
+    "rating": 4.7,
+    "category": "Historical",
+    "city": "Middleburg",
+    "state": "Virginia",
+    "country": "USA"
+  },
+  {
+    "name": "National Sporting Library & Museum",
+    "latitude": 38.9685,
+    "longitude": -77.7368,
+    "picture": "sporting_library",
+    "rating": 4.6,
+    "category": "Museum",
+    "city": "Middleburg",
+    "state": "Virginia",
+    "country": "USA"
+  },
+  {
+    "name": "Leesburg Historic Downtown",
+    "latitude": 39.1157,
+    "longitude": -77.5636,
+    "picture": "leesburg_downtown",
+    "rating": 4.6,
+    "category": "Cultural",
+    "city": "Leesburg",
+    "state": "Virginia",
+    "country": "USA"
+  },
+  {
+    "name": "Morven Park",
+    "latitude": 39.1250,
+    "longitude": -77.5640,
+    "picture": "morven_park",
+    "rating": 4.7,
+    "category": "Park",
+    "city": "Leesburg",
+    "state": "Virginia",
+    "country": "USA"
+  },
+  {
+    "name": "Oatlands Historic House & Gardens",
+    "latitude": 39.1028,
+    "longitude": -77.5614,
+    "picture": "oatlands",
+    "rating": 4.7,
+    "category": "Historical",
+    "city": "Leesburg",
+    "state": "Virginia",
+    "country": "USA"
+  },
+  {
+    "name": "Ball's Bluff Battlefield Regional Park",
+    "latitude": 39.1286,
+    "longitude": -77.5353,
+    "picture": "balls_bluff",
+    "rating": 4.5,
+    "category": "Historical",
+    "city": "Leesburg",
+    "state": "Virginia",
+    "country": "USA"
+  },
+  {
+    "name": "Purcellville Historic W&OD Trailhead",
+    "latitude": 39.1473,
+    "longitude": -77.7136,
+    "picture": "wod_trail_purcellville",
+    "rating": 4.5,
+    "category": "Park",
+    "city": "Purcellville",
+    "state": "Virginia",
+    "country": "USA"
+  },
+  {
+    "name": "Sunset Hills Vineyard",
+    "latitude": 39.1261,
+    "longitude": -77.6775,
+    "picture": "sunset_hills_vineyard",
+    "rating": 4.4,
+    "category": "Cultural",
+    "city": "Purcellville",
+    "state": "Virginia",
+    "country": "USA"
+  },
+  {
+    "name": "Breaux Vineyards",
+    "latitude": 39.1125,
+    "longitude": -77.5983,
+    "picture": "breaux_vineyards",
+    "rating": 4.5,
+    "category": "Cultural",
+    "city": "Purcellville",
+    "state": "Virginia",
+    "country": "USA"
+  }
+]
