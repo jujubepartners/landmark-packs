@@ -1,5 +1,5 @@
 {
-  "version": "1.7",
+  "version": "1.9",
   "packs": [
     {
       "id": "us_new_york",
@@ -48,6 +48,14 @@
       "flag": "🇭🇰",
       "description": "Vibrant landmarks of Hong Kong",
       "type": "bundle"
-    }
+    },
+    {
+  "id": "us_virginia",
+  "city": "Virginia",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "description": "Entire state of Virginia (bundle of regions)",
+  "type": "bundle"
+}
   ]
 }
