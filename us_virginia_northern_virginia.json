@@ -1,0 +1,77 @@
+{
+  "packId": "us_virginia_northern_virginia",
+  "name": "Northern Virginia",
+  "state": "Virginia",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Landmarks near Washington, D.C. – Arlington, Mount Vernon, and more",
+  "landmarks": [
+    {
+      "name": "Arlington National Cemetery",
+      "latitude": 38.8768,
+      "longitude": -77.0691,
+      "picture": "arlington_cemetery",
+      "rating": 4.9,
+      "category": "Historical",
+      "city": "Arlington",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "George Washington's Mount Vernon",
+      "latitude": 38.7080,
+      "longitude": -77.0861,
+      "picture": "mount_vernon",
+      "rating": 4.8,
+      "category": "Historical",
+      "city": "Mount Vernon",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Great Falls Park",
+      "latitude": 38.9989,
+      "longitude": -77.2539,
+      "picture": "great_falls",
+      "rating": 4.8,
+      "category": "Natural",
+      "city": "McLean",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Steven F. Udvar-Hazy Center (Air and Space Museum)",
+      "latitude": 38.9110,
+      "longitude": -77.4428,
+      "picture": "udvar_hazy",
+      "rating": 4.9,
+      "category": "Museum",
+      "city": "Chantilly",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "The Pentagon",
+      "latitude": 38.8710,
+      "longitude": -77.0563,
+      "picture": "pentagon",
+      "rating": 4.3,
+      "category": "Architecture",
+      "city": "Arlington",
+      "state": "Virginia",
+      "country": "USA"
+    },
+    {
+      "name": "Manassas National Battlefield Park",
+      "latitude": 38.7500,
+      "longitude": -77.4800,
+      "picture": "manassas_battlefield",
+      "rating": 4.7,
+      "category": "Historical",
+      "city": "Manassas",
+      "state": "Virginia",
+      "country": "USA"
+    }
+  ]
+}
