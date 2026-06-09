@@ -1,0 +1,15 @@
+{
+  "bundleId": "us_virginia",
+  "name": "Virginia",
+  "flag": "🇺🇸",
+  "version": "1.0",
+  "description": "Complete set of landmark packs for Virginia",
+  "packs": [
+    "us_virginia_richmond",
+    "us_virginia_virginia_beach",
+    "us_virginia_northern_virginia",
+    "us_virginia_historic_triangle",
+    "us_virginia_shenandoah",
+    "us_virginia_loudoun"
+  ]
+}
